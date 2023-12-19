@@ -1,5 +1,3 @@
-![image](https://github.com/JFrois/Alura-plus/assets/112560665/d41b983a-01dd-4b87-94fa-aa926493af8a)# Alura-plus
-
 Neste projeto realizei a criação da página da alura plus.
 
 
